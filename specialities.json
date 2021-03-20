@@ -31,19 +31,19 @@
     },
     {
         "id":5,
-        "name":"Chirurgien cardiaque",
+        "name":"Chirurgien thoracique",
         "similar_name":"",
         "description":""
     },
     {
         "id":6,
-        "name":"Chirurgien plasticien et esthétique",
+        "name":"Chirurgien vasculaire",
         "similar_name":"",
         "description":""
     },
     {
         "id":7,
-        "name":"Chirurgien gynécologique",
+        "name":"Chirurgien cervico-faciale",
         "similar_name":"",
         "description":""
     },
@@ -91,187 +91,206 @@
     },
     {
         "id":15,
-        "name":"Neurochirurgien",
+        "name":"Dentiste",
         "similar_name":"",
         "description":""
     },
     {
         "id":16,
-        "name":"Dermatologue",
+        "name":"Gynécologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":17,
-        "name":"Endocrinologue",
+        "name":"Neurochirurgien",
         "similar_name":"",
         "description":""
     },
     {
         "id":18,
-        "name":"Gastro-entérologue",
+        "name":"Dermatologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":19,
-        "name":"Hématologue",
+        "name":"Endocrinologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":20,
-        "name":"Hépatologue",
+        "name":"Gastro-entérologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":21,
-        "name":"Immunologue",
+        "name":"Hématologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":22,
-        "name":"Infectiologue",
+        "name":"Hépatologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":23,
-        "name":"Médecin du travail",
+        "name":"Immunologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":24,
-        "name":"Médecin urgentiste",
+        "name":"Sonographiste",
         "similar_name":"",
         "description":""
     },
     {
         "id":25,
-        "name":"Médecin généraliste",
+        "name":"Médecin de famille",
         "similar_name":"",
         "description":""
     },
     {
         "id":26,
-        "name":"Médecin nucléaire",
+        "name":"Médecin urgentiste",
         "similar_name":"",
         "description":""
     },
     {
         "id":27,
-        "name":"Médecin de soins paliatifs",
+        "name":"Médecin généraliste",
         "similar_name":"",
         "description":""
     },
     {
         "id":28,
-        "name":"Médecin préventif",
-        "similar_name":"",
+        "name":"Médecin interne",
+        "similar_name":"Interniste",
         "description":""
     },
     {
         "id":29,
-        "name":"Néonatologue",
+        "name":"Médecin de soins paliatifs",
         "similar_name":"",
         "description":""
     },
     {
         "id":30,
-        "name":"Néphrologue",
+        "name":"Médecin préventif",
         "similar_name":"",
         "description":""
     },
     {
         "id":31,
-        "name":"Neurologue",
+        "name":"Néonatologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":32,
-        "name":"Obstétricien",
+        "name":"Néphrologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":33,
-        "name":"Odontologue",
+        "name":"Neurologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":34,
-        "name":"Oncologue",
+        "name":"Obstétricien",
         "similar_name":"",
         "description":""
     },
     {
         "id":35,
-        "name":"Ophtamologue",
+        "name":"Odontologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":36,
-        "name":"Orthopédiste",
+        "name":"Echographiste",
         "similar_name":"",
         "description":""
     },
     {
         "id":37,
-        "name":"ORL",
-        "similar_name":"otorhinolaryngologiste"
+        "name":"Ophtamologue",
+        "similar_name":"",
+        "description":""
     },
     {
         "id":38,
-        "name":"Pédiatre",
+        "name":"Orthopédiste",
         "similar_name":"",
         "description":""
     },
     {
         "id":39,
-        "name":"Pneumologue",
-        "similar_name":"",
+        "name":"ORL",
+        "similar_name":"otorhinolaryngologiste",
         "description":""
     },
     {
         "id":40,
-        "name":"Podo-orthésiste",
+        "name":"Pédiatre",
         "similar_name":"",
         "description":""
     },
     {
         "id":41,
-        "name":"Psychiatre",
+        "name":"Pneumologue",
         "similar_name":"",
         "description":""
     },
     {
         "id":42,
-        "name":"Radiothérapeute",
+        "name":"Podo-orthésiste",
         "similar_name":"",
         "description":""
     },
     {
         "id":43,
-        "name":"Rhumathologue",
+        "name":"Psychiatre",
         "similar_name":"",
         "description":""
     },
     {
         "id":44,
-        "name":"Spécialiste de la médecine interne",
+        "name":"Radiothérapeute",
         "similar_name":"",
         "description":""
     },
     {
-        "id":42,
-        "name":"Spécialiste de la médecine physique et réadaptation",
+        "id":45,
+        "name":"Rhumathologue",
         "similar_name":"",
         "description":""
+    },
+    {
+        "id":46,
+        "name":"Spécialiste de la médecine physique et réadaptation",
+        "similar_name":"Réanimateur,Spécialiste de la réhabilitation physique",
+        "description":""
     }
+    {
+        "id":47,
+        "name":"Spécialiste de la spirométrie",
+        "similar_name":"",
+        "description":""
+    },
+    {
+        "id":48,
+        "name":"Urologue",
+        "similar_name":"",
+        "description":""
+    },
 ]
